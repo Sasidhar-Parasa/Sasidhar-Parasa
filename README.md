@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGk8UnYgH0fpg/profile-displaybackgroundimage-shrink_350_1400/0/1631025022032?e=1636588800&v=beta&t=UN629TLNlxsje43rZeq6IODowINSSUnb3VmG86jshm8)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGk8UnYgH0fpg/profile-displaybackgroundimage-shrink_350_1400/0/1631025022032?e=1643241600&v=beta&t=c1ODLBQxy230P_8iytv43Iaum0QjFUcq-gpb7REg7NQ)
 <h1 align="center">Hi 👋, I'm Sasidhar</h1>
 <h3 align="center">An Enthusiast about new Tech!</h3>
 
