@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasidhar-parasa&label=Profile%20views&color=0e75b6&style=flat" alt="sasidhar-parasa" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Python and its libraries**
 
